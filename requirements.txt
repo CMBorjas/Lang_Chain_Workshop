@@ -5,3 +5,5 @@ chromadb
 pypdf
 fastapi
 uvicorn[standard]
+ipykernel
+langchain-ollama 

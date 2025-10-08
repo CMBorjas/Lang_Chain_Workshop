@@ -7,3 +7,4 @@ fastapi
 uvicorn[standard]
 ipykernel
 langchain-ollama 
+langchain-chroma

@@ -122,9 +122,3 @@ pip install -r requirements.txt
 **Advanced / alternate**
 - Use `python -m venv .venv` or `virtualenv` if you prefer hidden venv folder names.
 - Consider `pipx` for globally installed CLI tools and `conda` for complex scientific stacks.
-
----
-
-If you'd like, I can:
-- add this content into the repository `README.md` instead of a standalone file, or
-- open a PR that also adds `env/` to `.gitignore` if it isn't already ignored.
